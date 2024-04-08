@@ -20,6 +20,7 @@ body{
 }
 @media(min-width:768px) {
     .menu-row{
+        padding: 0 20px;
         margin-bottom: 30px;
     }
 }
